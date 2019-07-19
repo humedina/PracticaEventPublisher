@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Product-Register-Events
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: humberto
+Implementation-Vendor-Id: com.cursoms.practica.events.and.queues
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Product-Register-Events
+Created-By: Maven Integration for Eclipse
+

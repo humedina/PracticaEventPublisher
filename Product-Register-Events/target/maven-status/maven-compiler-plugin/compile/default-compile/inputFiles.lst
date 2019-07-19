@@ -1,0 +1,13 @@
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/model/Product.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/App.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/observer/ClientRegisteredListener.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/_config/ApplicationConfig.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/events/ProductRegisteredEvent.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/repository/ProductRepository.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/_config/RabbitMQConfig.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/events/ProductRegisteredEventBuilder.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/events/client/ClientRegisteredEvent.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/rabbitlistener/ClientRegisteredRabbitListener.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/service/ProductService.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/_config/AsynchronousConfig.java
+/home/humberto/Documentos/microserviceMgtGrupo1/Product-Register-Events/src/main/java/com/cursoms/practica/events/and/queues/observer/ProductRegisteredListener.java

@@ -1,0 +1,16 @@
+com/cursoms/practica/events/and/queues/model/Product.class
+com/cursoms/practica/events/and/queues/_config/AsynchronousConfig.class
+com/cursoms/practica/events/and/queues/events/ProductRegisteredEvent$ProductRegisteredEventBuilder.class
+com/cursoms/practica/events/and/queues/observer/ProductRegisteredListener.class
+com/cursoms/practica/events/and/queues/App.class
+com/cursoms/practica/events/and/queues/service/ProductService.class
+com/cursoms/practica/events/and/queues/events/ProductRegisteredEventBuilder.class
+com/cursoms/practica/events/and/queues/_config/ApplicationConfig.class
+com/cursoms/practica/events/and/queues/events/client/ClientRegisteredEvent$ClientRegisteredEventBuilder.class
+com/cursoms/practica/events/and/queues/observer/ClientRegisteredListener.class
+com/cursoms/practica/events/and/queues/model/Product$ProductBuilder.class
+com/cursoms/practica/events/and/queues/rabbitlistener/ClientRegisteredRabbitListener.class
+com/cursoms/practica/events/and/queues/repository/ProductRepository.class
+com/cursoms/practica/events/and/queues/events/ProductRegisteredEvent.class
+com/cursoms/practica/events/and/queues/_config/RabbitMQConfig.class
+com/cursoms/practica/events/and/queues/events/client/ClientRegisteredEvent.class
