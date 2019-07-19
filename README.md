@@ -87,4 +87,4 @@ _Las herramientas / stack tecnológico empleado para la elaboración de la prác
 
 
 ---
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
+😊
