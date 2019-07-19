@@ -39,7 +39,7 @@ localhost:15672
 
 _El segundo paso consiste en actualizar las dependencias Maven en cada uno de los proyectos._
 
-_El tercer paso es compilar el primer proyecto y para esto es necesario ejecutar el siguiente comando en la ubicación en la que se encuentra el ficehro **pom.xml**_
+_El tercer paso es compilar el primer proyecto y para esto es necesario ejecutar el siguiente comando en la ubicación en la que se encuentra el fichero **pom.xml**_
 
 ```
 mvn clean package
@@ -61,7 +61,7 @@ _**Nota:** Se recomienda ejecutar los archivos Jar en el siguiente orden para po
 
 ## Ejecutando las pruebas ⚙️
 
-_Una ves que los proyectos se encuentran ejecutando, es necesario abrir una nueva ventana de su navegador de preferencia e ingresar a la siguiente URL; **http://localhost:8080/**, al ingresar la url, inmediatamente se deberá visualiazar el formulario o cliente que realizará las peticiones hacía el microservicio que se encargará de registrar clientes._
+_Una vez que los proyectos se encuentran ejecutando, es necesario abrir una nueva ventana de su navegador de preferencia e ingresar a la siguiente URL; **http://localhost:8080/**, al ingresar la url, inmediatamente se deberá visualiazar el formulario o cliente que realizará las peticiones hacía el microservicio que se encargará de registrar clientes._
 
 _El formulario deberá ser llenado con la información solicitada y posteriormente envíarla y confirmar._
 
@@ -72,7 +72,7 @@ _El segundo servicio realizará una tarea similar pero para notificar en caso de
 
 ### Analice las pruebas end-to-end 🔩
 
-_Para validar la correcta ejecución de las pruebas, batará con ir al RabbitMQ y verificar el comportamiento de las **Queues**. Por otro lado se podrá visualizar en la BD la persistencia de la información. También la revisión de las trazas que se loggearon en consola, servirá para validar la funcionalidad._
+_Para validar la correcta ejecución de las pruebas, bastará con ir al RabbitMQ y verificar el comportamiento de las **Queues**. Por otro lado se podrá visualizar en la BD la persistencia de la información. También la revisión de las trazas que se loggearon en consola, servirá para validar la funcionalidad._
 
 ## Construido con 🛠️
 
