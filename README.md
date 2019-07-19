@@ -78,6 +78,10 @@ _Las herramientas / stack tecnológico empleado para la elaboración de la prác
 * [Java 8](https://www.java.com/es/)
 * [Maven](https://maven.apache.org/)
 * [RabbitMQ](https://www.rabbitmq.com/)
+* [Angular 8](https://angular.io/)
+* [NodeJS](https://nodejs.org/)
+* [STS 4](https://spring.io/tools)
+* [VS Code](https://code.visualstudio.com/)
 
 ## Autores ✒️
 
