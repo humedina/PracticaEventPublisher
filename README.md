@@ -7,8 +7,11 @@ _En cuanto a negocio, se trata de la reservación de un cliente en un sitio de s
 
 ## Comenzando 🚀
 _1.- Clonar el repositorio de GitHub para tener acceso a los proyectos involucrados: https://github.com/humedina/PracticaEventPublisher.git_
+
 _2.- Importar proyectos (Practica-Events-and-Queues, Product-Register-Events y Notifications-Send-Event)._
+
 _2.1.- Abrir su IDE de preferencia (Se recomienda STS3)._
+
 _2.2.- Dar click en File > Import > Maven > Existing Maven Projects > Next > Browse > {directorio_desacarga}/PracticaEventPublisher > Select All > Finish._
 
 Ubica **Deployment** para conocer como desplegar el proyecto.
